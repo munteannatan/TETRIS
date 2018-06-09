@@ -1,2 +1,3 @@
-pieces.inc linguist-vendored
-pieces4.inc linguist-vendored
+
+*.inc linguist-documentation
+
